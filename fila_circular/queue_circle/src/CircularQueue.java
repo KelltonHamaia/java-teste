@@ -64,7 +64,9 @@ public class CircularQueue {
     }
 
 
-
+public void teste(){
+    
+}
 
 
     public void front(){
@@ -74,3 +76,4 @@ public class CircularQueue {
         System.out.println("index tail: "+ this.tail + " | value: " +this.fila[this.tail]);
     }
 }
+
